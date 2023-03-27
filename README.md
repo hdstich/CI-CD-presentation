@@ -68,7 +68,7 @@ CI / CD is an investment and as each investment has its own costs that are worth
 - The whole process requires knowledge and requires an experience, otherwise it can cause more problems than benefits.
 
 ## How does CI/CD process looks in practice?
-![CI/CD process](assets/CI:CD%20big.png)
+![CI/CD process](assets/CI-CD%20big.png)
 
 Diagram of how CI/CD process may look like:
 
